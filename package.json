@@ -1,0 +1,27 @@
+{
+  "name": "intro-a-nodejs",
+  "version": "1.0.0",
+  "description": "Estos son algunos ejercicios para practicar node y git",
+  "main": "index.js",
+  "scripts": {
+    "cowsay": "./node_modules/.bin/cowsay",
+    "cowthink": "./node_modules/.bin/cowthink"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varonss/Intro-a-NodeJs.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Ricardo Varona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varonss/Intro-a-NodeJs/issues"
+  },
+  "homepage": "https://github.com/Varonss/Intro-a-NodeJs#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
